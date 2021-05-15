@@ -49,10 +49,13 @@ indexParagraph2: Nunc sit amet accumsan mauris. Ut luctus leo ut quam rutrum acc
 images:
   -
     full: "https://unsplash.it/1024/512?random=1"
-    min: "https://unsplash.it/400/200?random=2"
+    min: "https://unsplash.it/1024/512?random=1"
   -
     full: "https://unsplash.it/1024/512?random=2"
-    min: "https://unsplash.it/400/200?random=2"
+    min: "https://unsplash.it/1024/512?random=2"
+  -
+    full: "https://unsplash.it/1024/512?random=3"
+    min: "https://unsplash.it/1024/512?random=3"
 
 sections:
   -
