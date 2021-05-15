@@ -1,2 +1,0 @@
-# brush
-Jekyll theme.
