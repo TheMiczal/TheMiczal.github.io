@@ -30,7 +30,7 @@ layout: default
 </section>
 
 {% for section in site.sections %}
-  <section class="contentSection">
+  <section class="contentSection" id="{{- section.id -}}">
     <div class="contentSection-header"><h2 id="{{- section.id -}}"> {{- section.title -}} </h2></div>
     <div class="contentGrid">
       {% for image in section.images %}
