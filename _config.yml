@@ -138,9 +138,6 @@ sections:
       -
         full: "/assets/img/Posters5_full.png"
         min: "/assets/img/Posters5_small.png"
-      -
-        full: "/assets/img/Posters6_full.png"
-        min: "/assets/img/Posters6_small.png"
 
 # Footer content - please edit the _includes/footer.html file.
 
