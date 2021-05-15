@@ -41,8 +41,8 @@ nav_sites:
 
 # Main content
 header: Hi.</br>I'm&nbsp;Miczał
-headerParagraph: Kiedy robisz rzeczy dla nich samych, wykonujesz najlepszą pracę.</br> To jest sztuka.
-indexParagraph1: I'm an artist. I'm a performance artist. I do <a href="#drawings">Drawings</a>, <a href="#webdesign">Website design</a>, <a href="#pixelart">Pixel Art</a> and even <a href="#gayporn">Gay Porn</a>.
+headerParagraph: Art speaks where where words are unable to explain.
+indexParagraph1: I'm an artist. I'm a performance artist. I do <a href="#drawings">Drawings</a>, <a href="#conceptart">Concept Art</a>, <a href="#pixelart">Pixel Art</a> and even <a href="#logos">Logos</a>.
 indexParagraph2: Nunc sit amet accumsan mauris. Ut luctus leo ut quam rutrum accumsan.
 
 # Carousel images paths
@@ -79,8 +79,8 @@ sections:
         full: "https://unsplash.it/1024/512?random=8"
         min: "https://unsplash.it/400/200?random=8"
   -
-    title: Pixel Art
-    id: pixelart
+    title: Concept Art
+    id: conceptart
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images: #7
       -
@@ -105,8 +105,8 @@ sections:
         full: "https://unsplash.it/1024/512?random=15"
         min: "https://unsplash.it/400/200?random=15"
   -
-    title: Web Design
-    id: webdesign
+    title: Pixelart
+    id: pixelart
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images: #5
       -
@@ -125,8 +125,8 @@ sections:
         full: "https://unsplash.it/1024/512?random=20"
         min: "https://unsplash.it/400/200?random=20"
   -
-    title: Gay Porn
-    id: gayporn
+    title: Logos
+    id: logos
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images: #7
       -
