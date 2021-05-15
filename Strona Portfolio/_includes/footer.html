@@ -1,0 +1,8 @@
+<footer>
+  {{ site.owner }} &copy;
+  {% if site.time | date: "%Y" == "2021" -%}
+    2021.
+  {%- else -%}
+    2021 - {{ site.time | date: "%Y" }}.
+  {%- endif -%}
+</footer>
