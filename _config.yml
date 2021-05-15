@@ -62,7 +62,7 @@ sections:
     title: Drawings
     id: drawings
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
-    images: #5
+    images: #7
       -
         full: "https://unsplash.it/1024/512?random=4"
         min: "https://unsplash.it/400/200?random=4"
@@ -78,11 +78,17 @@ sections:
       -
         full: "https://unsplash.it/1024/512?random=8"
         min: "https://unsplash.it/400/200?random=8"
+      -
+        full: "https://unsplash.it/1024/512?random=14"
+        min: "https://unsplash.it/400/200?random=14"
+      -
+        full: "https://unsplash.it/1024/512?random=15"
+        min: "https://unsplash.it/400/200?random=15"
   -
     title: Concept Art
     id: conceptart
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
-    images: #7
+    images: #5
       -
         full: "https://unsplash.it/1024/512?random=9"
         min: "https://unsplash.it/400/200?random=9"
@@ -98,12 +104,6 @@ sections:
       -
         full: "https://unsplash.it/1024/512?random=13"
         min: "https://unsplash.it/400/200?random=13"
-      -
-        full: "https://unsplash.it/1024/512?random=14"
-        min: "https://unsplash.it/400/200?random=14"
-      -
-        full: "https://unsplash.it/1024/512?random=15"
-        min: "https://unsplash.it/400/200?random=15"
   -
     title: Pixelart
     id: pixelart
