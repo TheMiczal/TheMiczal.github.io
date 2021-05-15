@@ -49,101 +49,95 @@ indexParagraph2: Nunc sit amet accumsan mauris. Ut luctus leo ut quam rutrum acc
 images:
   -
     full: "https://unsplash.it/1024/512?random=1"
-    min: "https://unsplash.it/1024/512?random=1"
+    min: "https://unsplash.it/400/200?random=2"
   -
     full: "https://unsplash.it/1024/512?random=2"
-    min: "https://unsplash.it/1024/512?random=2"
-  -
-    full: "https://unsplash.it/1024/512?random=3"
-    min: "https://unsplash.it/1024/512?random=3"
+    min: "https://unsplash.it/400/200?random=2"
 
 sections:
   -
     title: Drawings
     id: drawings
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
-    images: #7
+    images:
       -
-        full: "https://unsplash.it/1024/512?random=4"
-        min: "https://unsplash.it/400/200?random=4"
+        full: "/assets/img/Drawings1_full.png"
+        min: "/assets/img/Drawings1_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=5"
-        min: "https://unsplash.it/400/200?random=5"
+        full: "/assets/img/Drawings2_full.png"
+        min: "/assets/img/Drawings2_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=6"
-        min: "https://unsplash.it/400/200?random=6"
+        full: "/assets/img/Drawings3_full.png"
+        min: "/assets/img/Drawings3_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=7"
-        min: "https://unsplash.it/400/200?random=7"
+        full: "/assets/img/Drawings4_full.png"
+        min: "/assets/img/Drawings4_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=8"
-        min: "https://unsplash.it/400/200?random=8"
+        full: "/assets/img/Drawings5_full.png"
+        min: "/assets/img/Drawings5_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=14"
-        min: "https://unsplash.it/400/200?random=14"
+        full: "/assets/img/Drawings6_full.png"
+        min: "/assets/img/Drawings6_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=15"
-        min: "https://unsplash.it/400/200?random=15"
+        full: "/assets/img/Drawings7_full.png"
+        min: "/assets/img/Drawings7_small.png"
   -
     title: Concept Art
     id: conceptart
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
-    images: #5
+    images:
       -
-        full: "https://unsplash.it/1024/512?random=9"
-        min: "https://unsplash.it/400/200?random=9"
+        full: "/assets/img/CA1_full.png"
+        min: "/assets/img/CA1_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=10"
-        min: "https://unsplash.it/400/200?random=10"
-      -
-        full: "https://unsplash.it/1024/512?random=11"
-        min: "https://unsplash.it/400/200?random=11"
-      -
-        full: "https://unsplash.it/1024/512?random=12"
-        min: "https://unsplash.it/400/200?random=12"
-      -
-        full: "https://unsplash.it/1024/512?random=13"
-        min: "https://unsplash.it/400/200?random=13"
+        full: "/assets/img/CA2_full.png"
+        min: "/assets/img/CA2_small.png"
   -
     title: Pixelart
     id: pixelart
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
-    images: #5
+    images:
       -
-        full: "https://unsplash.it/1024/512?random=16"
-        min: "https://unsplash.it/400/200?random=16"
+        full: "/assets/img/Pixelart1_full.png"
+        min: "/assets/img/Pixelart1_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=17"
-        min: "https://unsplash.it/400/200?random=17"
+        full: "/assets/img/Pixelart2_full.png"
+        min: "/assets/img/Pixelart2_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=18"
-        min: "https://unsplash.it/400/200?random=18"
+        full: "/assets/img/Pixelart3_full.png"
+        min: "/assets/img/Pixelart3_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=19"
-        min: "https://unsplash.it/400/200?random=19"
+        full: "/assets/img/Pixelart4_full.png"
+        min: "/assets/img/Pixelart4_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=20"
-        min: "https://unsplash.it/400/200?random=20"
+        full: "/assets/img/Pixelart5_full.png"
+        min: "/assets/img/Pixelart5_small.png"
+      -
+        full: "/assets/img/Pixelart6_full.png"
+        min: "/assets/img/Pixelart6_small.png"
   -
     title: Posters
     id: posters
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
-    images: #5
+    images:
       -
-        full: "https://unsplash.it/1024/512?random=21"
-        min: "https://unsplash.it/400/200?random=21"
+        full: "/assets/img/Posters1_full.png"
+        min: "/assets/img/Posters1_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=22"
-        min: "https://unsplash.it/400/200?random=22"
+        full: "/assets/img/Posters2_full.png"
+        min: "/assets/img/Posters2_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=23"
-        min: "https://unsplash.it/400/200?random=23"
+        full: "/assets/img/Posters3_full.png"
+        min: "/assets/img/Posters3_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=24"
-        min: "https://unsplash.it/400/200?random=24"
+        full: "/assets/img/Posters4_full.png"
+        min: "/assets/img/Posters4_small.png"
       -
-        full: "https://unsplash.it/1024/512?random=25"
-        min: "https://unsplash.it/400/200?random=25"
+        full: "/assets/img/Posters5_full.png"
+        min: "/assets/img/Posters5_small.png"
+      -
+        full: "/assets/img/Posters6_full.png"
+        min: "/assets/img/Posters6_small.png"
 
 # Footer content - please edit the _includes/footer.html file.
 
