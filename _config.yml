@@ -48,14 +48,51 @@ indexParagraph2: Nunc sit amet accumsan mauris. Ut luctus leo ut quam rutrum acc
 # Carousel images paths
 images:
   -
-    full: "https://unsplash.it/1024/512?random=1"
-    min: "https://unsplash.it/1024/512?random=1"
+    full: "/assets/img/slider1"
+    min: "/assets/img/slider1b"
   -
-    full: "https://unsplash.it/1024/512?random=2"
-    min: "https://unsplash.it/1024/512?random=2"
+    full: "/assets/img/slider2"
+    min: "/assets/img/slider2b"
   -
-    full: "https://unsplash.it/1024/512?random=3"
-    min: "https://unsplash.it/1024/512?random=3"
+    full: "/assets/img/slider3"
+    min: "/assets/img/slider3b"
+  -
+    full: "/assets/img/slider4"
+    min: "/assets/img/slider4b"
+  -
+    full: "/assets/img/slider5"
+    min: "/assets/img/slider5b"
+  -
+    full: "/assets/img/slider6"
+    min: "/assets/img/slider6b"
+  -
+    full: "/assets/img/slider7"
+    min: "/assets/img/slider7b"
+  -
+    full: "/assets/img/slider8"
+    min: "/assets/img/slider8b"
+  -
+    full: "/assets/img/slider9"
+    min: "/assets/img/slider9b"
+  -
+    full: "/assets/img/slider10"
+    min: "/assets/img/slider10b"
+  -
+    full: "/assets/img/slider11"
+    min: "/assets/img/slider11b"
+  -
+    full: "/assets/img/slider12"
+    min: "/assets/img/slider12b"
+  -
+    full: "/assets/img/slider13"
+    min: "/assets/img/slider13b"
+  -
+    full: "/assets/img/slider14"
+    min: "/assets/img/slider14b"
+  -
+    full: "/assets/img/slider15"
+    min: "/assets/img/slider15b"
+  -
 
 sections:
   -
@@ -84,20 +121,23 @@ sections:
       -
         full: "/assets/img/Drawings7_full.png"
         min: "/assets/img/Drawings7_small.png"
+      -
+        full: "/assets/img/Drawings8_full.png"
+        min: "/assets/img/Drawings8_small.png"
   -
     title: Concept Art
     id: conceptart
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images:
       -
+        full: "/assets/img/CA3_full.png"
+        min: "/assets/img/CA3_small.png"
+      -
+        full: "/assets/img/CA2_full.png"
+        min: "/assets/img/CA2_small.png"
+      -
         full: "/assets/img/CA1_full.png"
         min: "/assets/img/CA1_small.png"
-      -
-        full: "/assets/img/CA2_full.png"
-        min: "/assets/img/CA2_small.png"
-      -
-        full: "/assets/img/CA2_full.png"
-        min: "/assets/img/CA2_small.png"
   -
     title: Posters
     id: posters
