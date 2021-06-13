@@ -121,9 +121,6 @@ sections:
       -
         full: "/assets/img/Drawings7_full.png"
         min: "/assets/img/Drawings7_small.png"
-      -
-        full: "/assets/img/Drawings8_full.png"
-        min: "/assets/img/Drawings8_small.png"
   -
     title: Concept Art
     id: conceptart
