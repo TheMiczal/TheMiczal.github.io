@@ -159,7 +159,14 @@ sections:
     title: Programming
     id: Programming
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
-
+    images:
+      -
+        full: "/assets/img/mikrocygan.webm"
+        min: "/assets/img/mikrocygan.webm"
+      -
+        full: "/assets/img/antycygan.webm"
+        min: "/assets/img/antycygan.webm"
+      -
 # Footer content - please edit the _includes/footer.html file.
 
 
