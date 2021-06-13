@@ -30,15 +30,27 @@ layout: default
 </section>
 
 {% for section in site.sections %}
-  <section class="contentSection" id="{{- section.id -}}">
-    <div class="contentSection-header"><h2 id="{{- section.id -}}"> {{- section.title -}} </h2></div>
-    <div class="contentGrid">
-      {% for image in section.images %}
-        <a href="{{- image.full -}}" class="img" ><img src="{{- image.min -}}" /></a>
-      {% endfor %}
-    </div>
-    <p> {{- section.paragraph -}} </p>
-  </section>
+  {% if section.video==false %}
+    <section class="contentSection" id="{{- section.id -}}">
+        <div class="contentSection-header"><h2 id="{{- section.id -}}"> {{- section.title -}} </h2></div>
+        <div class="contentGrid">
+        {% for image in section.images %}
+            <a href="{{- image.full -}}" class="img" ><img src="{{- image.min -}}" /></a>
+        {% endfor %}
+        </div>
+        <p> {{- section.paragraph -}} </p>
+    </section>
+  {% else %}
+    <section class="contentSection" id="{{- section.id -}}">
+        <div class="contentSection-header"><h2 id="{{- section.id -}}"> {{- section.title -}} </h2></div>
+        <div class="contentGrid">
+        {% for image in section.images %}
+            <video controls><source src="{{-image.full-}}"></video>
+        {% endfor %}
+        </div>
+        <p> {{- section.paragraph -}} </p>
+    </section>
+  {% endif %}
 {% endfor %}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-slider/1.0.0/simpleslider.min.js"></script>

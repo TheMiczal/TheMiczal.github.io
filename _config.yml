@@ -98,6 +98,7 @@ sections:
   -
     title: Drawings
     id: drawings
+    video: false
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images:
       -
@@ -124,6 +125,7 @@ sections:
   -
     title: Concept Art
     id: conceptart
+    video: false
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images:
       -
@@ -138,6 +140,7 @@ sections:
   -
     title: Posters
     id: posters
+    video: false
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images:
       -
@@ -157,15 +160,14 @@ sections:
         min: "/assets/img/Posters5_small.png"
   -
     title: Programming
-    id: Programming
+    id: programming
+    video: true
     paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
     images:
       -
         full: "/assets/img/mikrocygan.webm"
-        min: "/assets/img/mikrocygan.webm"
       -
         full: "/assets/img/antycygan.webm"
-        min: "/assets/img/antycygan.webm"
 
 # Footer content - please edit the _includes/footer.html file.
 
