@@ -166,9 +166,7 @@ sections:
       -
         full: "/assets/img/antycygan.webm"
         min: "/assets/img/antycygan.webm"
-      -
-        full: "/assets/img/Drawings7_full.png"
-        min: "/assets/img/Drawings7_small.png"
+
 # Footer content - please edit the _includes/footer.html file.
 
 
