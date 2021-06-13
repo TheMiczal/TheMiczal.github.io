@@ -49,49 +49,49 @@ indexParagraph2: Nunc sit amet accumsan mauris. Ut luctus leo ut quam rutrum acc
 images:
   -
     full: "/assets/img/slider1.jpg"
-    min: "/assets/img/slider1b.jpg"
+    min: "/assets/img/slider1.jpg"
   -
     full: "/assets/img/slider2.jpg"
-    min: "/assets/img/slider2b.jpg"
+    min: "/assets/img/slider2.jpg"
   -
     full: "/assets/img/slider3.jpg"
-    min: "/assets/img/slider3b.jpg"
+    min: "/assets/img/slider3.jpg"
   -
     full: "/assets/img/slider4.jpg"
-    min: "/assets/img/slider4b.jpg"
+    min: "/assets/img/slider4.jpg"
   -
     full: "/assets/img/slider5.jpg"
-    min: "/assets/img/slider5b.jpg"
+    min: "/assets/img/slider5.jpg"
   -
     full: "/assets/img/slider6.jpg"
-    min: "/assets/img/slider6b.jpg"
+    min: "/assets/img/slider6.jpg"
   -
     full: "/assets/img/slider7.jpg"
-    min: "/assets/img/slider7b.jpg"
+    min: "/assets/img/slider7.jpg"
   -
     full: "/assets/img/slider8.jpg"
-    min: "/assets/img/slider8b.jpg"
+    min: "/assets/img/slider8.jpg"
   -
     full: "/assets/img/slider9.jpg"
-    min: "/assets/img/slider9b.jpg"
+    min: "/assets/img/slider9.jpg"
   -
     full: "/assets/img/slider10.jpg"
-    min: "/assets/img/slider10b.jpg"
+    min: "/assets/img/slider10.jpg"
   -
     full: "/assets/img/slider11.jpg"
-    min: "/assets/img/slider11b.jpg"
+    min: "/assets/img/slider11.jpg"
   -
     full: "/assets/img/slider12.jpg"
-    min: "/assets/img/slider12b.jpg"
+    min: "/assets/img/slider12.jpg"
   -
     full: "/assets/img/slider13.jpg"
-    min: "/assets/img/slider13b.jpg"
+    min: "/assets/img/slider13.jpg"
   -
     full: "/assets/img/slider14.jpg"
-    min: "/assets/img/slider14b.jpg"
+    min: "/assets/img/slider14.jpg"
   -
     full: "/assets/img/slider15.jpg"
-    min: "/assets/img/slider15b.jpg"
+    min: "/assets/img/slider15.jpg"
   -
 
 sections:
