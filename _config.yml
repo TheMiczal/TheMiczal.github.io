@@ -48,50 +48,50 @@ indexParagraph2: Nunc sit amet accumsan mauris. Ut luctus leo ut quam rutrum acc
 # Carousel images paths
 images:
   -
-    full: "/assets/img/slider1"
-    min: "/assets/img/slider1b"
+    full: "/assets/img/slider1.jpg"
+    min: "/assets/img/slider1b.jpg"
   -
-    full: "/assets/img/slider2"
-    min: "/assets/img/slider2b"
+    full: "/assets/img/slider2.jpg"
+    min: "/assets/img/slider2b.jpg"
   -
-    full: "/assets/img/slider3"
-    min: "/assets/img/slider3b"
+    full: "/assets/img/slider3.jpg"
+    min: "/assets/img/slider3b.jpg"
   -
-    full: "/assets/img/slider4"
-    min: "/assets/img/slider4b"
+    full: "/assets/img/slider4.jpg"
+    min: "/assets/img/slider4b.jpg"
   -
-    full: "/assets/img/slider5"
-    min: "/assets/img/slider5b"
+    full: "/assets/img/slider5.jpg"
+    min: "/assets/img/slider5b.jpg"
   -
-    full: "/assets/img/slider6"
-    min: "/assets/img/slider6b"
+    full: "/assets/img/slider6.jpg"
+    min: "/assets/img/slider6b.jpg"
   -
-    full: "/assets/img/slider7"
-    min: "/assets/img/slider7b"
+    full: "/assets/img/slider7.jpg"
+    min: "/assets/img/slider7b.jpg"
   -
-    full: "/assets/img/slider8"
-    min: "/assets/img/slider8b"
+    full: "/assets/img/slider8.jpg"
+    min: "/assets/img/slider8b.jpg"
   -
-    full: "/assets/img/slider9"
-    min: "/assets/img/slider9b"
+    full: "/assets/img/slider9.jpg"
+    min: "/assets/img/slider9b.jpg"
   -
-    full: "/assets/img/slider10"
-    min: "/assets/img/slider10b"
+    full: "/assets/img/slider10.jpg"
+    min: "/assets/img/slider10b.jpg"
   -
-    full: "/assets/img/slider11"
-    min: "/assets/img/slider11b"
+    full: "/assets/img/slider11.jpg"
+    min: "/assets/img/slider11b.jpg"
   -
-    full: "/assets/img/slider12"
-    min: "/assets/img/slider12b"
+    full: "/assets/img/slider12.jpg"
+    min: "/assets/img/slider12b.jpg"
   -
-    full: "/assets/img/slider13"
-    min: "/assets/img/slider13b"
+    full: "/assets/img/slider13.jpg"
+    min: "/assets/img/slider13b.jpg"
   -
-    full: "/assets/img/slider14"
-    min: "/assets/img/slider14b"
+    full: "/assets/img/slider14.jpg"
+    min: "/assets/img/slider14b.jpg"
   -
-    full: "/assets/img/slider15"
-    min: "/assets/img/slider15b"
+    full: "/assets/img/slider15.jpg"
+    min: "/assets/img/slider15b.jpg"
   -
 
 sections:
