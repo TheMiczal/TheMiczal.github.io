@@ -99,7 +99,7 @@ sections:
     title: Drawings
     id: drawings
     video: false
-    paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
+    paragraph: I'm drawing for few years now. Style of my drawings, is mainly anime-like, but I like to experiment with other styles.
     images:
       -
         full: "/assets/img/Drawings1_full.png"
@@ -126,7 +126,7 @@ sections:
     title: Concept Art
     id: conceptart
     video: false
-    paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
+    paragraph: Concept Art is another thing i was working on. Despite being easier to draw becouse I dont have to add shades, this is what I still have to learn the most.
     images:
       -
         full: "/assets/img/CA3_full.png"
@@ -141,7 +141,7 @@ sections:
     title: Posters
     id: posters
     video: false
-    paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
+    paragraph: I was mainly doing posters for my middle school. I was main artist for Festival of Technical Talents in my school for three years.
     images:
       -
         full: "/assets/img/Posters1_full.png"
@@ -162,7 +162,7 @@ sections:
     title: Programming
     id: programming
     video: true
-    paragraph: Ut condimentum eleifend ante, nec iaculis felis venenatis sit amet. Cras ut augue luctus nibh dignissim pharetra.
+    paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. I wrote few games in Python. My most succesfull one is Bandyt Souls II - a joke game for my friend streamer. During premiere he was streaming it for many people. 
     images:
       -
         full: "/assets/img/mikrocygan.webm"
